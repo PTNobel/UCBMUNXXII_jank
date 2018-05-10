@@ -1,0 +1,34 @@
+{
+  "store": [
+    {
+        "title": "UCBMUN T-Shirt",
+        "price": "$15.00",
+        "message":"Remember your time at UCBMUN with a limited edition shirt commemorating our 22nd Conference.",
+        "image":"tshirt"
+      },
+    {
+      "title": "UCBMUN Beer Mug",
+      "price": "$15.00",
+      "message":"Drink to substansive debate and joyous cameraderie with the first ever UCBMUN beer mug!",
+      "image":"beer"
+    },
+    {
+      "title": "UCBMUN Shot Glass",
+      "price": "$7.00",
+      "message":"Take a shot at your rival in committee, but then take a shot with them afterwards.",
+      "image":"shot"
+    },
+    {
+      "title": "UCBMUN Folder",
+      "price": "$5.00",
+      "message":"Hold all of your committee papers and directives together in style.",
+      "image":"folder"
+    },
+    {
+      "title": "UCBMUN Candy Gram",
+      "price": "$3.00",
+      "message":"Send something sweet to that good looking delegate from New Zealand or your partner in crime in the Porfiriato.",
+      "image":"candy"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "title": "Bear Crawl",
+      "time": "10:40pm - 1:00am",
+      "message":"We invite delegates who are 21+ to join us for a neighborhood bar crawl on Thursday night led by UCBMUN staff members. Come experience one of San Francisco's most historic neighborhoods.",
+      "location":"Meet at Hilton Lobby"
+    },
+    {
+      "title": "Hookah Night",
+      "time": "11:30pm - 1:00am",
+      "message":"Join members of the UCBMUN staff as they travel to one of San Francisco's premier Hookah Bars.  You must be atleast 21 to attend this event.",
+      "location":"Meet at Hilton Lobby"
+    },
+    {
+      "title": "Bear Fest",
+      "time": "10:00pm - 1:00am",
+      "message":"Food trucks, karaoke, and photos galore! Go out streetside to grab some delicious food, snacks, and dessert before heading inside to sing your heart out and get your photo taken with your favoirte delegates.",
+      "location":"Front of Hilton"
+    },
+    {
+      "title": "Bear Rave",
+      "time": "10:00pm - 2:00am",
+      "message":"UCBMUN's greatly anticipated annual soiree will take place at the Horizon Ultra Lounge. Come celebrate a fantastic conference and dance the night away with new and old friends. ",
+      "location":"498 Broadway Street, San Francisco, CA"
+    }
+  ]
+}

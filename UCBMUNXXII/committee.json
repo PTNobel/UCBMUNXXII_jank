@@ -1,0 +1,76 @@
+{
+  "GA": [
+    {
+      "name": "SOCHUM",
+      "location": "Grand Ballroom"
+    },
+    {
+      "name": "US Senate Healthcare",
+      "location": "Columbus I"
+    },
+    {
+      "name": "Legal: People vs OJ",
+      "location": "Valencia "
+    },
+    {
+      "name": "MLB 2008",
+      "location": "Embarcadero"
+    },
+    {
+      "name": "Trade and Development",
+      "location": "Pine"
+    }
+  ],
+  "Crisis": [
+    {
+      "name": "Ad-Hoc",
+      "location": "Pyramid"
+    },
+    {
+      "name": "Gunpower Plot",
+      "location": "Front"
+    },
+    {
+      "name": "Maduro Oil Crisis",
+      "location": "Columbus II"
+    },
+    {
+      "name": "Mumbai Terror Attacks",
+      "location": "Washington"
+    },
+    {
+      "name": "Barbary Wars",
+      "location": "Mason I"
+    },
+    {
+      "name": "Ethno-Nationalism in Norther Ireland",
+      "location": "Sansome"
+    },
+    {
+      "name": "AIRBNB",
+      "location": "Davis"
+    },
+    {
+      "name": "The Fifth Republic",
+      "location": ".Mason II"
+    },
+    {
+      "name": "Yugoslav Partisans",
+      "location": "Montgomery"
+    },
+    {
+      "name": "UNSC",
+      "location": "Columbus III"
+    }
+  ],
+  "JCC": [
+    {
+      "name": "Japan",
+      "location": "Valencia"
+    },
+    {
+      "name": "Russia",
+      "location": "Room TBD"
+    }
+  ]
+}
